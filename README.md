@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+My name is Alex and I do Molecular Bioengineering at Imperial College London. I'm from Singapore and am currently living in London. I program to make my life easier and my main interests are programming for finance (I yolo trade) and bioinformatics.
 
 <!--
 **AlexSimAlgos/AlexSimAlgos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
